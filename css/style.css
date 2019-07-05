@@ -305,7 +305,7 @@ body.section-show .section.active {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: #FFF;
+	background: #1d1d1d;
 	z-index: 199;
 	-webkit-transition: all .5s ease;
 	-moz-transition: all .5s ease;
